@@ -1,0 +1,9 @@
+{
+  "short_name": "ExamProctor",
+  "name": "AI-Based Online Exam Proctoring System",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
