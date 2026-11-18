@@ -2,6 +2,22 @@
 
 A full-stack, production-ready exam platform with real-time AI-powered proctoring.
 
+## 📸 Screenshots
+
+Captured from the running app with its demo seed data (`database/seed_demo.sql`).
+
+| Login (role-based demo accounts) | Main admin dashboard |
+|---|---|
+| ![Login](docs/screenshots/login.png) | ![Admin dashboard](docs/screenshots/admin-dashboard.png) |
+
+| Manage users | Create exam |
+|---|---|
+| ![Manage users](docs/screenshots/manage-users.png) | ![Create exam](docs/screenshots/create-exam.png) |
+
+| Staff dashboard | Student dashboard |
+|---|---|
+| ![Staff dashboard](docs/screenshots/staff-dashboard.png) | ![Student dashboard](docs/screenshots/student-dashboard.png) |
+
 ---
 
 ## 📁 Project Structure
